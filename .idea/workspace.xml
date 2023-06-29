@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2fc3480-88df-468f-8cf6-2a5b1b0b26e6" name="Changes" comment="feat: Start blog project">
+    <list default="true" id="f2fc3480-88df-468f-8cf6-2a5b1b0b26e6" name="Changes" comment="test: Change test data for ArticleControllerTest">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/organ/kosa/springbootdeveloper/controller/ArticleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/organ/kosa/springbootdeveloper/controller/ArticleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/organ/kosa/springbootdeveloper/service/ArticleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/organ/kosa/springbootdeveloper/service/ArticleService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/organ/kosa/springbootdeveloper/controller/ArticleControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/organ/kosa/springbootdeveloper/controller/ArticleControllerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -128,7 +130,7 @@
       <recent name="organ.kosa.springbootdeveloper.controller" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SpringBootBlogApplication">
+  <component name="RunManager" selected="JUnit.ArticleControllerTest.findArticle">
     <configuration name="SpringBootBlogApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="organ.kosa.springbootdeveloper.SpringBootBlogApplication" />
       <module name="blog-dev.main" />
@@ -182,8 +184,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ArticleControllerTest.findArticle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="blog-dev.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="organ.kosa.springbootdeveloper.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="organ.kosa.springbootdeveloper.controller" />
+      <option name="MAIN_CLASS_NAME" value="organ.kosa.springbootdeveloper.controller.ArticleControllerTest" />
+      <option name="METHOD_NAME" value="findArticle" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ArticleControllerTest.findArticle" />
         <item itemvalue="Application.SpringBootBlogApplication" />
         <item itemvalue="JUnit.ArticleControllerTest.addArticle" />
         <item itemvalue="Gradle.ArticleControllerTest.addArticle" />
@@ -215,7 +234,23 @@
       <option name="project" value="LOCAL" />
       <updated>1688016988975</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="test: Change test data for ArticleControllerTest">
+      <option name="closed" value="true" />
+      <created>1688017807273</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1688017807273</updated>
+    </task>
+    <task id="LOCAL-00004" summary="test: Change test data for ArticleControllerTest">
+      <option name="closed" value="true" />
+      <created>1688017850389</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1688017850389</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -245,7 +280,8 @@
     <MESSAGE value="feat: Start bog project" />
     <MESSAGE value="feat: Start blog projecct" />
     <MESSAGE value="feat: Start blog project" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Start blog project" />
+    <MESSAGE value="test: Change test data for ArticleControllerTest" />
+    <option name="LAST_COMMIT_MESSAGE" value="test: Change test data for ArticleControllerTest" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

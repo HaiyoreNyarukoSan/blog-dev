@@ -20,4 +20,9 @@ public class ArticleService {
     public List<Article> findAll() {
         return articleRepository.findAll();
     }
+
+    public Article findById(long id) {
+        return articleRepository.findById(id)
+                .orElseThrow(() -> new IllegalArgumentException("not found: "+id));
+    }
 }
