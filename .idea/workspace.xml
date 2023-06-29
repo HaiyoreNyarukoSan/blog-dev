@@ -4,30 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2fc3480-88df-468f-8cf6-2a5b1b0b26e6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/organ/kosa/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/organ/kosa/springbootdeveloper/SpringBootBlogApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/organ/kosa/springbootdeveloper/controller/ArticleController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/organ/kosa/springbootdeveloper/domain/Article.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/organ/kosa/springbootdeveloper/dto/ArticleAddRequestDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/organ/kosa/springbootdeveloper/dto/ArticleResponseDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/organ/kosa/springbootdeveloper/repository/ArticleRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/organ/kosa/springbootdeveloper/service/ArticleService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/data.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/organ/kosa/springbootdeveloper/controller/ArticleControllerTest.java" afterDir="false" />
+    <list default="true" id="f2fc3480-88df-468f-8cf6-2a5b1b0b26e6" name="Changes" comment="feat: Start blog project">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/organ/kosa/springbootdeveloper/controller/ArticleControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/organ/kosa/springbootdeveloper/controller/ArticleControllerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +73,26 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="HaiyoreNyarukoSan &lt;progogo12@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="91871e45-c613-4580-a886-1852f4dc49ed" />
+        <option name="url" value="https://github.com/HaiyoreNyarukoSan/blog-dev.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectId" id="2RpKjhKK69O8tySXnuZTrRzAxSN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -201,7 +199,53 @@
       <option name="presentableId" value="Default" />
       <updated>1687941721177</updated>
     </task>
+    <task id="LOCAL-00001" summary="feat: Start bog project">
+      <option name="closed" value="true" />
+      <created>1688016752534</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688016752534</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: Start blog project">
+      <option name="closed" value="true" />
+      <created>1688016988975</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1688016988975</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: Start bog project" />
+    <MESSAGE value="feat: Start blog projecct" />
+    <MESSAGE value="feat: Start blog project" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Start blog project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

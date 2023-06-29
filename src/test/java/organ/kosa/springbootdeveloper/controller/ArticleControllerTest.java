@@ -76,7 +76,7 @@ class ArticleControllerTest {
         //given
         final String url = "/api/articles";
         final String title = "test-title";
-        final String content = "test test test";
+        final String content = "test-content";
 
         articleRepository.save(Article.builder()
                 .title(title)
