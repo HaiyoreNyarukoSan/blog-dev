@@ -11,9 +11,12 @@ public class Main {
         // Press Shift+F10 or click the green arrow button in the gutter to run the code.
         for (int i = 1; i <= 5; i++) {
 
+
             // Press Shift+F9 to start debugging your code. We have set one breakpoint
             // for you, but you can always add more by pressing Ctrl+F8.
             System.out.println("i = " + i);
         }
+        System.out.print("내이름은 : 김혁태" + "마지막으로 먹은 음식 : 돈까츠")
+
     }
 }
