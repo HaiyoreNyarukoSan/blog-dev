@@ -7,7 +7,6 @@
     <list default="true" id="f2fc3480-88df-468f-8cf6-2a5b1b0b26e6" name="Changes" comment="test: Change test data for ArticleControllerTest">
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/organ/kosa/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/organ/kosa/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -227,7 +226,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1687941721177</updated>
-      <workItem from="1691976088470" duration="833000" />
+      <workItem from="1691976088470" duration="2100000" />
     </task>
     <task id="LOCAL-00001" summary="feat: Start bog project">
       <option name="closed" value="true" />
@@ -269,7 +268,23 @@
       <option name="project" value="LOCAL" />
       <updated>1691976698023</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="다시 한번 더">
+      <option name="closed" value="true" />
+      <created>1691976969293</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1691976969293</updated>
+    </task>
+    <task id="LOCAL-00007" summary="다시 시도 함">
+      <option name="closed" value="true" />
+      <created>1691977112785</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1691977112785</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -302,8 +317,10 @@
     <MESSAGE value="feat: Start bog project" />
     <MESSAGE value="feat: Start blog projecct" />
     <MESSAGE value="feat: Start blog project" />
-    <MESSAGE value="test: Change test data for ArticleControllerTest" />
     <MESSAGE value="0814 커밋메세지 남기기" />
-    <option name="LAST_COMMIT_MESSAGE" value="0814 커밋메세지 남기기" />
+    <MESSAGE value="다시 한번 더" />
+    <MESSAGE value="test: Change test data for ArticleControllerTest" />
+    <MESSAGE value="다시 시도 함" />
+    <option name="LAST_COMMIT_MESSAGE" value="다시 시도 함" />
   </component>
 </project>
